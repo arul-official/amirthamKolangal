@@ -1,0 +1,73 @@
+ 
+ #header{
+	
+	
+	font-size: 2.8em;
+	
+}
+.navbar-brand{
+	
+	
+	font-size: 26px;
+	margin: 0px 0px;
+	cursor:pointer;
+	
+}
+
+.navbar-nav a{
+	font-size: 16px;
+	
+}
+ #menu li{
+	
+	
+	
+	
+	font-size:15px;
+	width: 70px;
+	padding: 22px 0px 22px 0px;
+	
+}
+
+ #slider, #slider div.sliderInner {
+    width:300;
+	height:250px;/* Must be the same size as the slider images */
+	
+}
+#sliderFrame 
+{
+    
+    width:300px;
+   
+	
+}
+#slider div.navBulletsWrapper  {
+    top:260px;/* Its position is relative to the #slider */
+	
+}
+#myslider{
+	width: 320px;
+	height: 160px;
+	margin: 20px auto;
+	
+}
+#about{
+		width: 250px;
+		height: 280px;
+		
+}
+.pagination a{
+		font-size: 10px;
+	
+}
+.footer{
+	background-color: #333333;
+	height: 35px;
+	width: 100%;
+	color: white;
+}
+.footer h4{
+	padding-top:10px;
+	font-size: 12px;
+	
+}
